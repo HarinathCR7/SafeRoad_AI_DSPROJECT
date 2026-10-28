@@ -1,0 +1,157 @@
+# ==========================================
+# SafeRoad AI - Production .gitignore
+# ==========================================
+
+# ------------------------------------------
+# Python & Virtual Environments
+# ------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python Distribution & Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit tests, Coverage & Caches
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+backend/.pytest_cache/
+cover/
+
+# pyenv, mypy, ruff
+.python-version
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+
+# ------------------------------------------
+# Node.js & Frontend
+# ------------------------------------------
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Frontend build outputs
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+dist/
+dist-ssr/
+.vite/
+
+# ------------------------------------------
+# Databases & Local Storage
+# ------------------------------------------
+*.db
+*.sqlite
+*.sqlite3
+saferoad.db
+backend/saferoad.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# ------------------------------------------
+# Environment Variables & Secrets
+# ------------------------------------------
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env.local
+*.pem
+*.key
+*.cert
+*.crt
+
+# ------------------------------------------
+# Operating System & IDE Files
+# ------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# ------------------------------------------
+# Temporary & Analysis Scratch Files
+# ------------------------------------------
+*.tmp
+*.temp
+*~
+template_analysis.txt
+template_dump.txt
+chapter5_dump.txt
+inspect_doc.py
+verify_report.py
+extracted_template_images/
+
+# Exclude loose root test images (keep report_images directory tracked)
+image1.jpeg
+image2.jpeg
+image3.png
+image4.jpeg
+image5.jpeg
+image6.jpeg
+image7.jpeg
+image8.jpeg
+image9.jpeg
+
+# Ensure report assets are always tracked
+!report_images/
+!saferoad_block_diagram.png
+!report_images/*

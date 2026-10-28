@@ -1,0 +1,550 @@
+Total paragraphs: 657
+Total tables: 1
+
+P004 [Normal] (align=CENTER (1)): PROJECT OCTOBER 2026
+     Runs font={'Arial'}, size={18.0}, bold=[True, True, True]
+P005 [Normal] (align=JUSTIFY (3)): EDGEGUARD AI
+     Runs font={'Arial'}, size={18.0}, bold=[None, None, True, True, True]
+P011 [Normal] (align=JUSTIFY (3)): PROJECT REPORT SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF BACHELOR OF ENGINEERING IN COMPUTER SCIENCE AND ENGINEERING
+     Runs font={'Arial MT', 'Arial'}, size={12.0}, bold=[None, None, None, None, None, None, None, None, None, None, True, True, True, None, True, True, True, True, True]
+P012 [Normal] (align=JUSTIFY (3)): OF THE ANNA UNIVERSITY
+P023 [Heading 2] (align=None): PROJECT WORK
+     Runs font=set(), size=set(), bold=[None, None]
+P033 [Normal] (align=None): BATCH 2024 - 2028
+     Runs font={'Arial'}, size={18.0}, bold=[True, True, True, True, True, True]
+P034 [Normal] (align=None): Submitted by
+P035 [Normal] (align=None): GOPIKA S - 722824104067
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True, True, True]
+P040 [Normal] (align=JUSTIFY (3)): Under the Guidance of Dr. M. SURIYA, M.E., Ph.D ASSOCIATE PROFESSOR
+     Runs font={'Arial MT', 'Arial'}, size={12.0}, bold=[None, True, True, True, True, True, True, True, True, True, True, True, True]
+P044 [Heading 3] (align=CENTER (1)): COMPUTER SCIENCE AND ENGINEERING
+     Runs font={'Arial'}, size=set(), bold=[None, None, None, None, None, None, None]
+P045 [Normal] (align=CENTER (1)): Sri Eshwar College of Engineering
+     Runs font={'Arial'}, size={18.0}, bold=[True, True, True, True, True, True, True, True, True]
+P046 [Normal] (align=CENTER (1)): (An Autonomous Institution – Affiliated to Anna University)
+P047 [Normal] (align=CENTER (1)): COIMBATORE – 641 202
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True, True, True, True, True]
+P052 [Normal] (align=CENTER (1)): PROJECT OCTOBER 2026
+     Runs font={'Arial'}, size={18.0}, bold=[True, True, True]
+P053 [Title] (align=None): EDGEGUARD AI
+P059 [Normal] (align=None): PROJECT REPORT SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE
+P060 [Normal] (align=None): OF BACHELOR OF ENGINEERING
+     Runs font={'Arial MT', 'Arial'}, size={12.0}, bold=[None, None, True, True, True, True, True]
+P061 [Normal] (align=None): IN COMPUTER SCIENCE AND ENGINEERING
+     Runs font={'Arial MT', 'Arial'}, size={12.0}, bold=[None, None, True, True, True, True, True, True, True]
+P062 [Normal] (align=None): OF THE ANNA UNIVERSITY
+P067 [Heading 2] (align=None): PROJECT WORK
+     Runs font=set(), size=set(), bold=[None, None]
+P069 [Normal] (align=RIGHT (2)): Submitted by
+P070 [Normal] (align=RIGHT (2)): GOPIKA S – 722824104067
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True, True, True, True, True, True]
+P072 [Normal] (align=None): BATCH 2024 - 2028
+     Runs font={'Arial'}, size={18.0}, bold=[True, True, True, True, True, True]
+P074 [Normal] (align=JUSTIFY (3)): Under the Guidance of Dr. M. SURIYA, M.E., PH.D, ASSOCIATE PROFESSOR
+     Runs font={'Arial MT', 'Arial'}, size={12.0}, bold=[None, None, None, None, None, None, None, True, True, True]
+P079 [Heading 4] (align=CENTER (1)): Department of Computer Science and Engineering
+     Runs font={'Arial'}, size=set(), bold=[None, None, None, None, None, None, None, None, None, None, None]
+P080 [Normal] (align=CENTER (1)): Sri Eshwar College of Engineering
+     Runs font={'Arial'}, size={18.0}, bold=[True, True, True, True, True, True, True, True, True]
+P081 [Normal] (align=CENTER (1)): (An Autonomous Institution – Affiliated to Anna University)
+P082 [Normal] (align=CENTER (1)): COIMBATORE – 641 202
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True, True, True, True, True]
+P084 [Normal] (align=CENTER (1)): Sri Eshwar College of Engineering
+     Runs font={'Arial'}, size={18.0}, bold=[True, True, True, True, True, True, True, True, True]
+P085 [Normal] (align=CENTER (1)): (An Autonomous Institution – Affiliated to Anna University)
+P086 [Normal] (align=CENTER (1)): COIMBATORE – 641 202
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True, True, True, True, True]
+P090 [Heading 3] (align=CENTER (1)): BONAFIDE CERTIFICATE
+     Runs font={'Arial'}, size=set(), bold=[None, None, None]
+P093 [Normal] (align=CENTER (1)): Certified that this Report titled “EDGEGUARD AI” for the course U23AD491
+     Runs font={'Arial MT', 'Arial'}, size={14.0}, bold=[None, None, None, None, None, None, None, None, None, None, True, True, True, True, None, None, None, None, None, None, True]
+P094 [Normal] (align=None): - Data Science is the bonafide work of
+     Runs font={'Arial MT', 'Arial'}, size={14.0}, bold=[True, True, True, True, True, True, None, None, None, None, None, None, None, None]
+P096 [Normal] (align=RIGHT (2)): GOPIKA S	722824104067
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True, True, True]
+P098 [Body Text] (align=None): Who carried out the Data Science Project work under my supervision.
+P102 [Normal] (align=RIGHT (2)): SIGNATURE	SIGNATURE
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True]
+P105 [Normal] (align=CENTER (1)): Dr.R.Subha M.E.,Ph.D Professor &
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True, True, True, True]
+P106 [Normal] (align=CENTER (1)): Head of the Department, Department of Computer Science and Engineering,
+     Runs font={'Arial MT', 'Arial'}, size={12.0}, bold=[True, None, None, None, None, None, None, None]
+P107 [Normal] (align=CENTER (1)): Sri Eshwar College of Engineering,
+P108 [Normal] (align=CENTER (1)): Coimbatore-641202
+P110 [Normal] (align=CENTER (1)): Dr.M.Suriya, M.E., Ph.D., Associate Professor,
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True, True, True, True, True]
+P111 [Normal] (align=CENTER (1)): Department of Computer Science and Engineering,
+P112 [Normal] (align=CENTER (1)): Sri Eshwar College of Engineering, Coimbatore-641202
+P115 [Normal] (align=None): Submitted	for	the	End	Semester	Project	examination	U23AD491
+     Runs font=set(), size={14.0}, bold=[None, None, None, None, None, None, None, None, None, None, None, None, None, None, True, True]
+P116 [Normal] (align=None): Data Science – Project work viva-voice held on ………………………
+     Runs font=set(), size={12.0, 14.0}, bold=[True, True, None, None]
+P120 [Normal] (align=CENTER (1)): INTERNAL EXAMINER	EXTERNAL EXAMINER
+     Runs font={'Arial'}, size={12.0}, bold=[True, True, True, True, True, True, True]
+P122 [Heading 2] (align=CENTER (1)): DECLARATION
+     Runs font=set(), size=set(), bold=[None]
+P124 [Heading 3] (align=CENTER (1)): GOPIKA S - 722824104067
+     Runs font=set(), size=set(), bold=[None, None, None, None, None, None, None]
+P131 [Body Text] (align=JUSTIFY (3)): To declare that the project entitled "EdgeGuard AI" submitted in partial fulfilment to the University as the project work of Bachelor of Engineering (Computer Science and Engineering) Degree, is a record of original work done by us under the supervision and guidance of Dr. M. Suriya, M.E., Ph.D, Associate Professor, Department of Computer Science and Engineering, Sri Eshwar College of Engineering, Coimbatore.
+     Runs font=set(), size={12.0}, bold=[None, True, True, True, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, True, True, None, None]
+P132 [Normal] (align=None): Place: Coimbatore
+     Runs font=set(), size={12.0}, bold=[True, True, None]
+P133 [Heading 4] (align=None): Date:
+     Runs font=set(), size={12.0}, bold=[None]
+P134 [Body Text] (align=RIGHT (2)): GOPIKA S
+P144 [Body Text] (align=None): Project Guided by,
+P146 [Body Text] (align=None): Dr. M. Suriya, M.E., Ph.D
+P147 [Heading 3] (align=None): ACKNOWLEDGEMENT
+     Runs font=set(), size=set(), bold=[None, None, None]
+P150 [Body Text] (align=JUSTIFY (3)): The success of a work depends on a team and cooperation. I take this opportunity to express my gratitude and thanks to everyone who helped me in my project. I would like to thank the management for the constant support provided by them to complete this project.
+P151 [Body Text] (align=JUSTIFY (3)): It is indeed our great honor bounded duty to thank our beloved Chairman Mr. R. Mohanram, for his academic interest shown towards the students.
+     Runs font=set(), size={12.0}, bold=[None, True, True, True, None]
+P152 [Normal] (align=JUSTIFY (3)): We are indebted to our Director Mr. R. Rajaram, for motivating and providing us with all facilities.
+     Runs font=set(), size={12.0}, bold=[None, True, None]
+P153 [Body Text] (align=JUSTIFY (3)): I wish to express my sincere regards and deep sense of gratitude to Dr. Sudha Mohanram, M.E, Ph.D. Principal, for the excellent facilities and encouragement provided during the course of the study and project.
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, True, True, True, None]
+P154 [Body Text] (align=JUSTIFY (3)): We  are  indebted  to  Dr.  R.  Subha,  M.E.,  Ph.D.  Professor  & Head of Computer Science and Engineering Department for having permitted us to carry out this project and giving the complete freedom to utilize the resources of the department.
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None, None, None, True, True, True, True, True, True, True, True, True, True, True, None, None, None, None, None, None, None, None, None, None]
+P155 [Body Text] (align=JUSTIFY (3)): I express my sincere thanks to my mini project Coordinator Dr. M. Suriya, M.E., Ph.D, Associate Professors of Computer Science and Engineering Department for the valuable guidance and encouragement given, to us for this project.
+     Runs font=set(), size={12.0}, bold=[None, True, True, True, None]
+P156 [Body Text] (align=JUSTIFY (3)): I solemnly express our thanks to all the teaching and nonteaching staff of the Computer Science and Engineering Department, family and friends for their valuable support which inspired us to work on this project.
+P158 [Normal] (align=CENTER (1)): TABLE OF CONTENTS
+     Runs font=set(), size={13.0}, bold=[True, True, True, True, True]
+P161 [Normal] (align=None): CHAPTER
+     Runs font=set(), size={13.0}, bold=[True]
+P162 [Normal] (align=None): NO.	TITLE
+     Runs font=set(), size={13.0}, bold=[True, True, True]
+P163 [Normal] (align=None): PAGE NO.
+     Runs font=set(), size={13.0}, bold=[None, True, True, True]
+P166 [Normal] (align=None): ABSTRACT	i
+     Runs font=set(), size={13.0}, bold=[True, True, True]
+P167 [List Paragraph] (align=LEFT (0)): LITRATURE SURVEY
+P168 [List Paragraph] (align=LEFT (0)): EXISTING PRODUCT
+P169 [List Paragraph] (align=LEFT (0)): PROBLEM STATEMENT
+P172 [Heading 3] (align=CENTER (1)): ABSTRACT
+     Runs font=set(), size=set(), bold=[None, None]
+P176 [Body Text] (align=JUSTIFY (3)): The proposed system presents an Artificial Intelligence-based predictive maintenance solution designed to monitor mining trucks and predict potential component failures in real time. The system combines machine learning, sensor data analysis, historical maintenance records, component condition information, and computer vision results to provide a comprehensive assessment of equipment health. Unlike conventional monitoring systems that mainly display current sensor conditions, the proposed approach analyzes multiple parameters together to identify abnormal patterns and estimate the likelihood of future failures.
+P177 [Body Text] (align=JUSTIFY (3)): Python-based machine learning models are integrated with a FastAPI-based REST API to process incoming data and generate important maintenance indicators such as failure probability, health score, anomaly score, and Remaining Useful Life (RUL). These predictions help maintenance teams identify high-risk components at an early stage and take preventive actions before failures affect mining operations. The system also supports computer vision using YOLOv8 and OpenCV to detect visible defects and conditions such as oil leakage, tyre wear, structural cracks, and rust from inspection images.
+P178 [Body Text] (align=JUSTIFY (3)): A full-stack web application provides an interactive dashboard for monitoring truck and component health, viewing AI-generated predictions, analyzing historical information, and tracking maintenance conditions. In addition, an AI Maintenance Copilot provides prediction explanations, possible root causes, and recommended maintenance actions to assist maintenance personnel in making informed decisions. By combining predictive analytics, real-time monitoring, computer vision, and intelligent recommendations, the proposed system aims to improve equipment reliability, reduce unexpected downtime, optimize.
+P181 [Heading 3] (align=None): 1.INTRODUCTION
+     Runs font=set(), size=set(), bold=[None, None, None]
+P183 [Body Text] (align=JUSTIFY (3)): The AI-driven EdgeGuard AI aims to develop a sophisticated machine learning application for effective predictive maintenance of heavy mining trucks, addressing the growing complexity of industrial operations and the critical challenge of preventing unexpected equipment failures. It prioritizes intelligent, data-driven decision-making to automate and optimize the complex task of predicting maintenance risks across multiple truck components. Traditional maintenance management often lacks visibility into deep equipment patterns, leaving organizations vulnerable to unexpected failures, costly downtime, and operational losses.
+     Runs font=set(), size={12.0}, bold=[None, True, True, None]
+P184 [Body Text] (align=JUSTIFY (3)): The system empowers maintenance professionals to gain actionable insights from AI models that ingest and analyze comprehensive truck parameters, generating immediate and precise failure predictions and health assessments. This proactive approach is essential for maintaining equipment reliability, reducing downtime, and ensuring operational efficiency. Designed using a full-stack architecture, the application provides an intuitive dashboard for monitoring AI predictions, truck health, fleet status, and maintenance conditions, ensuring effective human-in-the-loop oversight.
+P185 [Body Text] (align=JUSTIFY (3)): It emphasizes model traceability, validation, and professional-in-the-loop control through clear data visualization, historical monitoring, and maintenance assessment features, ensuring accountability in critical maintenance decisions. Secure backend standards are implemented to provide a robust and realistic data pipeline to test, validate, and demonstrate the effectiveness of the AI models. Ultimately, this project empowers maintenance and management professionals by providing a powerful AI-driven tool for accurate equipment risk assessment, informed maintenance strategies, and confidence in applying machine
+P186 [Normal] (align=JUSTIFY (3)): learning through EdgeGuard AI.
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, True, True, True, None]
+P190 [Heading 3] (align=None): 2. SYSTEMANALYSIS AND DESIGN
+     Runs font=set(), size=set(), bold=[None, None, None, None, None, None, None, None]
+P192 [Heading 3] (align=None): 2.1.LITERATURE SURVEY
+     Runs font=set(), size=set(), bold=[None, None, None, None, None]
+P194 [Body Text] (align=JUSTIFY (3)): The AI-based predictive maintenance has gained importance with the development of Machine Learning, IoT, and Computer Vision technologies. Traditional maintenance methods mainly depend on scheduled inspections and manual monitoring, which may fail to detect equipment failures at an early stage. Modern approaches analyze real-time sensor data and historical maintenance records to identify abnormal conditions and predict possible failures before they occur.
+P195 [Body Text] (align=JUSTIFY (3)): Machine Learning techniques such as XGBoost, Isolation Forest, and Remaining Useful Life (RUL) prediction models are used for failure prediction, anomaly detection, and estimating the remaining useful life of equipment. IoT technologies enable continuous collection of sensor readings, such as temperature, pressure, and vibration, helping maintenance teams monitor equipment conditions in real time. Computer Vision techniques such as YOLOv8 and OpenCV help identify visible defects, including oil leakage, tyre wear, structural cracks, and rust.
+     Runs font=set(), size={12.0}, bold=[None, True, True, None, True, None, None, None]
+P196 [Body Text] (align=JUSTIFY (3)): Additionally, Digital Twin and Generative AI technologies support equipment visualization, prediction explanations, and maintenance recommendations. Digital Twin provides a virtual representation of equipment conditions, while Generative AI helps present useful maintenance suggestions based on prediction results.
+     Runs font=set(), size={12.0}, bold=[None, True, None]
+P197 [Body Text] (align=JUSTIFY (3)): EdgeGuard AI integrates these technologies to monitor heavy mining trucks, assess component health, predict potential failures, and prioritize maintenance activities. The system combines sensor data, machine learning predictions, and visual inspection results through a unified platform. A web-based dashboard displays equipment health, failure risks, and maintenance recommendations, helping maintenance teams make informed decisions. This approach aims to reduce unexpected breakdowns, minimize downtime, improve equipment reliability, and support efficient maintenance planning.
+     Runs font=set(), size={12.0}, bold=[True, True, None]
+P198 [Body Text] (align=JUSTIFY (3)): .
+P200 [Heading 3] (align=None): 2.2.EXISTING PROJECT
+     Runs font=set(), size=set(), bold=[None, None, None, None, None]
+P201 [Body Text] (align=JUSTIFY (3)): The existing predictive maintenance solutions mainly use IoT sensors and Machine Learning techniques to monitor equipment conditions and identify possible failures. These systems collect sensor data such as temperature, pressure, vibration, engine performance, and other operational parameters to detect abnormal conditions and support maintenance planning. By analyzing historical and real-time data, they can provide early warnings when equipment operates outside normal conditions.
+P203 [Normal] (align=JUSTIFY (3)): Some industrial solutions also provide equipment monitoring dashboards, condition-based alerts, and basic predictive analytics for maintenance teams. These systems help reduce unexpected breakdowns and improve equipment availability. However, many existing solutions focus mainly on sensor-based monitoring and failure prediction and may not provide integrated Computer Vision, Digital Twin visualization, Remaining Useful Life (RUL) prediction, and AI-based maintenance assistance within a single platform.
+     Runs font=set(), size={12.0}, bold=[None, True, True, True, True, True, True, True, True, True, True, True, True, True, None, None, None, None, None, None, None, None, None, None, None, True, True, True, True, True, None, None]
+P204 [Normal] (align=JUSTIFY (3)): The proposed approach addresses these limitations by combining IoT monitoring, Machine Learning, Computer Vision, Digital Twin technology, RUL prediction, and Generative AI to provide a comprehensive predictive maintenance solution for heavy mining trucks. This integrated approach enables better visualization of equipment conditions, early identification of component faults, prediction of potential failures, and generation of suitable maintenance recommendations. It supports maintenance teams in making faster, more accurate, and data-driven decisions, while helping to reduce downtime, maintenance costs, and operational
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, True, None, True, None]
+P206 [Heading 3] (align=None): 2.3. PROBLEM STATEMENT
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None]
+P207 [Body Text] (align=JUSTIFY (3)): Heavy mining trucks can experience unexpected failures due to component wear, abnormal sensor conditions, and physical damage. Traditional maintenance mainly relies on manual inspections and scheduled servicing, which may lead to delayed fault detection, increased repair costs, and unexpected downtime. Identifying early warning signs is challenging when different components develop faults under varying operating conditions.
+P208 [Body Text] (align=JUSTIFY (3)): The proposed system uses IoT, Machine Learning, and Computer Vision to continuously monitor truck health, predict potential failures, and estimate the Remaining Useful Life (RUL) of critical components. Sensor data, historical maintenance records, component health information, and inspection images are analyzed to detect issues such as overheating, excessive vibration, oil leakage, tyre wear, structural cracks, and rust. This integrated approach provides a better understanding of equipment conditions.
+     Runs font=set(), size={12.0}, bold=[None, True, None, True, None, None, None]
+P209 [Body Text] (align=JUSTIFY (3)): The system generates failure probabilities, health scores, and anomaly scores to assess component conditions and prioritize maintenance activities. Digital Twin technology supports virtual equipment visualization, while an AI-based maintenance assistant explains prediction results and provides suitable maintenance recommendations. A web-based dashboard displays truck health status, detected defects, risk levels, and maintenance priorities.
+     Runs font=set(), size={12.0}, bold=[None, True, None]
+P210 [Body Text] (align=JUSTIFY (3)): Furthermore, the system helps maintenance teams plan servicing based on the actual condition and predicted health of each component rather than relying only on fixed maintenance schedules. Continuous monitoring and early alerts enable technicians to identify high-risk components and take corrective action before minor issues develop into major failures. EdgeGuard AI aims to reduce unexpected breakdowns, minimize downtime and maintenance costs, improve equipment reliability, and support proactive, data-driven maintenance decisions.
+     Runs font=set(), size={12.0}, bold=[None, True, True, None]
+P214 [Heading 3] (align=None): 3.PROPOSED SOLUTION
+     Runs font=set(), size=set(), bold=[None, None, None, None, None]
+P216 [Normal] (align=None): 3.1.OVERVIEW
+     Runs font=set(), size={14.0}, bold=[True, True, True]
+P217 [Body Text] (align=JUSTIFY (3)): The AI-driven EdgeGuard AI transforms predictive maintenance by using Machine Learning models to perform complex, multi-factor analysis of mining truck data. The system combines real-time sensor readings, historical maintenance records, component health information, operational parameters, and inspection results to identify abnormal conditions and predict possible failures. This approach moves maintenance beyond reactive failure handling toward a proactive and condition-based maintenance strategy, allowing potential problems to be detected and addressed before they result in serious equipment breakdowns.
+P218 [Body Text] (align=JUSTIFY (3)): Maintenance professionals can use an intuitive web-based dashboard to monitor truck conditions, view component-level health, analyze risk levels, and review AI-generated predictions before taking maintenance actions. The system generates important indicators such as failure probability, health score, anomaly score, and Remaining Useful Life (RUL) for critical components. These indicators provide a clear understanding of the current condition and future risk associated with each component, helping maintenance teams prioritize critical issues and schedule maintenance activities more effectively.
+     Runs font=set(), size={12.0}, bold=[None, True, None]
+P219 [Body Text] (align=JUSTIFY (3)): The system also incorporates Computer Vision using YOLOv8 and OpenCV to analyze inspection images and identify visible defects such as oil leakage, tyre wear, structural cracks, and rust. This allows physical inspection information to be combined with sensor-based predictions for a more complete assessment of equipment condition. A Digital Twin representation provides a visual view of the truck and its components, helping users understand equipment status, track component conditions, and identify areas requiring attention.
+     Runs font=set(), size={12.0}, bold=[None, True, None, None, None, True, None]
+P220 [Body Text] (align=JUSTIFY (3)): In addition, an AI Maintenance Copilot assists maintenance personnel by explaining prediction results, identifying possible root causes, and providing suitable maintenance recommendations. It can help technicians understand warning alerts, review component health information, and identify appropriate follow-up actions. This human-in-the-loop approach ensures that AI-generated insights are reviewed by maintenance professionals before final actions are taken, improving the reliability and practicality of the decision-making process.
+     Runs font=set(), size={12.0}, bold=[None, True, None, None]
+P222 [Body Text] (align=JUSTIFY (3)): The application is developed using modern web technologies such as HTML, CSS, and JavaScript, providing an interactive and user-friendly interface. A FastAPI-based backend manages communication between the frontend, machine learning models, computer vision modules, and database. The database stores relevant truck, component, sensor, maintenance, and prediction information for further analysis and monitoring. The system can also maintain historical prediction records, enabling maintenance teams to compare equipment conditions over time and understand changes in component performance.
+     Runs font=set(), size={12.0}, bold=[None, True, None, True, True, None]
+P223 [Body Text] (align=JUSTIFY (3)): Furthermore, the proposed system supports maintenance prioritization by combining sensor-based risk indicators, visual defect detection results, and remaining useful life estimates. Components showing abnormal conditions or a higher risk of failure can be highlighted for early inspection and servicing. This helps reduce unnecessary maintenance activities and improves the utilization of maintenance resources. The collected information also supports better maintenance planning by helping teams identify recurring faults and understand equipment degradation patterns.
+P224 [Body Text] (align=JUSTIFY (3)): By integrating IoT monitoring, Machine Learning, Computer Vision, Digital Twin technology, RUL prediction, and Generative AI into a unified platform, EdgeGuard AI provides a comprehensive solution for predictive maintenance. It enables early fault detection, improves maintenance planning, reduces unexpected downtime and repair costs, and increases the reliability and availability of mining trucks. Overall, the system supports efficient, intelligent, and data-driven maintenance decision-making while contributing to safer, more reliable, and more productive mining operations.
+     Runs font=set(), size={12.0}, bold=[None, True, None, None, None, True, None]
+P226 [Heading 1] (align=None): 3.2.BLOCK DIAGRAM
+     Runs font=set(), size={14.0}, bold=[None, None, None, None, None]
+P230 [Normal] (align=CENTER (1)): Fig.3.2 Block Diagram
+     Runs font=set(), size=set(), bold=[True, True, True, True]
+P232 [Body Text] (align=JUSTIFY (3)): The The block diagram illustrates the overall working flow of the proposed predictive maintenance system, showing how data moves from collection and processing to prediction, risk assessment, and maintenance support.
+P233 [Body Text] (align=JUSTIFY (3)): IoT Sensor Data Input: Real-time truck parameters such as temperature, pressure, vibration, and location are collected using sensors to monitor operating conditions and identify abnormal changes.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P234 [Body Text] (align=JUSTIFY (3)): Data Preprocessing and Validation: The collected data is cleaned, validated, and organized to handle missing values, inconsistent readings, and incorrect data before it is passed to the prediction models.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P235 [Body Text] (align=JUSTIFY (3)): Predictive Maintenance Engine: Machine Learning models analyze sensor readings and historical maintenance records to generate failure probabilities, health scores, anomaly scores, and Remaining Useful Life (RUL) estimates for critical components.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P236 [Body Text] (align=JUSTIFY (3)): Computer Vision Module: YOLOv8 and OpenCV analyze truck inspection images to identify visible defects such as oil leakage, tyre wear, structural cracks, and rust, providing additional information about equipment condition.
+     Runs font=set(), size={12.0}, bold=[True, None, None, None]
+P237 [Body Text] (align=JUSTIFY (3)): Decision Engine: The decision engine combines machine learning predictions, sensor conditions, and computer vision results to evaluate equipment risk, identify critical components, and determine maintenance priorities.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P238 [Body Text] (align=JUSTIFY (3)): Digital Twin and Web Dashboard: The Digital Twin provides a virtual representation of the mining truck and its components, while the web dashboard displays health status, detected defects, risk levels, prediction results, and maintenance alerts for easy monitoring.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P239 [Body Text] (align=JUSTIFY (3)): AI Maintenance Copilot: The AI assistant explains prediction results, identifies possible causes of abnormal conditions, and suggests suitable maintenance actions to support technicians in making informed decisions.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P240 [Body Text] (align=JUSTIFY (3)): Maintenance Decision and Feedback: Maintenance teams review the generated insights and perform the necessary inspections or repairs. Maintenance records and updated equipment conditions can be used for further monitoring and future prediction improvements.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P241 [Body Text] (align=JUSTIFY (3)): Overall, the block diagram demonstrates how EdgeGuard AI integrates IoT, Machine Learning, Computer Vision, Digital Twin, and Generative AI into a unified system. This workflow supports early fault detection, effective maintenance planning, reduced equipment downtime, and improved reliability of heavy mining trucks.
+P244 [Heading 3] (align=None): 4.PROJECT DESCRIPTION
+     Runs font=set(), size=set(), bold=[None, None, None, None, None, None]
+P249 [Heading 3] (align=None): 4.1.DATASET COLLECTION AND DESCRIPTION
+     Runs font=set(), size=set(), bold=[None, None, None, None, None, None, None]
+P252 [Body Text] (align=JUSTIFY (3)): The core component of the system is the AI Predictive Maintenance Engine, which is responsible for analyzing mining truck data and generating intelligent predictions related to equipment health and potential failures. The engine uses Python-based Machine Learning techniques to identify patterns in operational and maintenance data and support proactive maintenance planning.
+     Runs font=set(), size={12.0}, bold=[None, None, True, None]
+P253 [Heading 4] (align=None): Technology:
+     Runs font=set(), size={12.0}, bold=[None, None]
+P254 [Body Text] (align=JUSTIFY (3)): The engine is developed using Python, XGBoost, Scikit-learn, Pandas, and  NumPy. Pandas and NumPy are used for data handling, preprocessing, and numerical operations, while Scikit-learn supports data preparation, model evaluation, and performance analysis. XGBoost is used for efficient predictive modeling and handling complex relationships between multiple equipment parameters. These technologies together provide a reliable foundation for developing and deploying the predictive maintenance models.
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, True, True, True, True, True, True, True, True, True, True, True, None, None, None, True, True, None]
+P255 [Heading 4] (align=None): Purpose:
+     Runs font=set(), size={12.0}, bold=[None, None]
+P256 [Body Text] (align=JUSTIFY (3)): The primary purpose of the engine is to perform multi-factor predictive analysis of mining truck conditions. Instead of depending on a single sensor value, the system considers multiple parameters such as temperature, pressure, vibration, operating conditions, component health, and historical maintenance records. By analyzing these factors together, the engine can identify abnormal patterns, estimate equipment risk, and predict possible component failures before they occur.
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, True, True, True, None, None, None, None, None, None, None, None, None, None, None, None, None]
+P258 [Heading 4] (align=None): Implementation
+     Runs font=set(), size=set(), bold=[None]
+P259 [Heading 4] (align=None): Training:
+     Runs font=set(), size={12.0}, bold=[None]
+P260 [Body Text] (align=JUSTIFY (3)): The Machine Learning models are trained using historical and generated mining truck datasets containing sensor readings, equipment conditions, maintenance information, and failure-related data. During the training process, the models learn relationships between different input parameters and equipment outcomes. Data preprocessing and feature analysis are performed to improve the quality of the input data. The trained models are evaluated using appropriate performance measures to ensure that they provide reliable predictions.
+P262 [Heading 4] (align=None): Inference:
+     Runs font=set(), size={12.0}, bold=[None, None]
+P263 [Body Text] (align=JUSTIFY (3)): After training, the models are integrated into the application to process new truck data received through the system. During inference, the engine analyzes the latest sensor and equipment information and generates predictions without requiring manual analysis. The results include failure probability, health score, anomaly score, and Remaining Useful Life (RUL). These outputs help maintenance teams understand the current condition of components and identify equipment that requires immediate attention.
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, True, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+P265 [Heading 4] (align=JUSTIFY (3)): Prediction and Risk Assessment:
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None, None, None]
+P266 [Body Text] (align=JUSTIFY (3)): The engine converts the model outputs into meaningful maintenance indicators that help evaluate the condition and reliability of mining truck components. A high failure probability or anomaly score indicates an increased risk of component failure, while the health score provides an overall indication of equipment condition. The Remaining Useful Life (RUL) prediction estimates the expected remaining operating period of a component, helping maintenance teams determine when servicing or replacement may be required.
+P267 [Body Text] (align=JUSTIFY (3)): The system combines these indicators with real-time sensor readings, historical maintenance records, and computer vision results to identify components that require immediate attention. Based on the severity of detected abnormalities and predicted failure risks, components can be classified into different risk levels, such as low, medium, and high.
+P269 [Heading 4] (align=JUSTIFY (3)): Integration with the Application:
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None, None, None]
+P270 [Body Text] (align=JUSTIFY (3)): The predictive engine is connected to the application through a FastAPI-based backend, allowing the Machine Learning models to receive input data and return prediction results through REST APIs. The generated results are then displayed on the web dashboard for easy monitoring and analysis. This integration enables the predictive models to operate as part of a complete maintenance workflow rather than as an independent analysis tool.
+P271 [Body Text] (align=JUSTIFY (3)): The backend manages communication between the frontend, predictive maintenance engine, Computer Vision module, and database. It processes incoming sensor data, forwards the required information to the appropriate models, and returns the generated predictions to the application. The database stores equipment details, component information, maintenance records, and prediction results, enabling users to review historical data and track changes in equipment health over time.
+P272 [Body Text] (align=JUSTIFY (3)): The application presents important indicators such as failure probability, health score, anomaly score, and Remaining Useful Life (RUL) through an interactive dashboard. When abnormal conditions or high-risk components are identified, the system can display alerts to help maintenance teams take timely action. The AI Maintenance Copilot can also use the available prediction results to explain potential issues and suggest suitable maintenance measures.
+P273 [Body Text] (align=JUSTIFY (3)): Overall, the AI Predictive Maintenance Engine enables the system to transform raw equipment data into actionable maintenance insights, supporting early fault detection, improved maintenance scheduling, reduced unexpected downtime, and more reliable mining truck operations. The integration of predictive models with the application provides a centralized platform for equipment monitoring and data-driven maintenance decision-making.
+     Runs font=set(), size={12.0}, bold=[None, True, None]
+P275 [Heading 3] (align=None): 4.2.METHODOLOGY
+     Runs font=set(), size=set(), bold=[None, None, None]
+P277 [Body Text] (align=JUSTIFY (3)): The methodology of EDGEGUARD AI follows a structured AI-based predictive maintenance process for monitoring and analyzing heavy mining trucks. The system combines IoT data, Machine Learning, Computer Vision, Digital Twin technology, and Generative AI to identify equipment conditions and support proactive maintenance.
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None, None, True, True, True, True, None, None, None, None, None, None, None, None, None]
+P278 [Body Text] (align=JUSTIFY (3)): Data Collection: Real-time truck parameters such as temperature, pressure, vibration, GPS, and camera images are collected using sensors and IoT devices. Data  Preprocessing: The collected data is cleaned, validated, and transformed into a suitable format for AI model processing.
+     Runs font=set(), size={12.0}, bold=[True, True, True, True, True, None, None, None, None, None, None, None, None, None, None, None, None, None, True, True, True, True, None]
+P279 [Body Text] (align=JUSTIFY (3)): Feature Engineering: Important features are extracted from sensor and historical data to identify patterns related to equipment health and failures.
+     Runs font=set(), size={12.0}, bold=[True, True, True, True, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+P280 [Normal] (align=JUSTIFY (3)): Model Training: Machine Learning models such as XGBoost, Isolation Forest, and RUL models are trained using historical and generated truck data. Computer Vision Analysis: YOLOv8 and OpenCV are used to detect visible defects such as oil leakage, tyre wear, structural cracks, and rust.
+     Runs font=set(), size={12.0}, bold=[True, True, None, True, True, True, True, True, True, None, True, True, True, True, True, True, True, True, True, None, None, None, None, None, None, None, None, None]
+P281 [Normal] (align=JUSTIFY (3)): Real-Time Prediction: The trained models analyze incoming truck data to generate
+     Runs font=set(), size={12.0}, bold=[True, True, None, None]
+P282 [Heading 4] (align=JUSTIFY (3)): failure probability, health score, anomaly score, and RUL.
+     Runs font=set(), size={12.0}, bold=[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, False]
+P283 [Body Text] (align=JUSTIFY (3)): Decision Making: Sensor data, ML predictions, and Computer Vision results are combined to determine the overall risk and maintenance priority.
+     Runs font=set(), size={12.0}, bold=[True, True, None]
+P284 [Normal] (align=JUSTIFY (3)): Visualization and Recommendations: The results are displayed through the Digital Twin and web dashboard, while the AI Maintenance Copilot provides explanations and maintenance recommendations.
+     Runs font=set(), size={12.0}, bold=[True, True, None, True, None]
+P287 [Heading 3] (align=None): 4.3.IMPLEMENTAION
+     Runs font=set(), size=set(), bold=[None, None, None, None]
+P289 [Body Text] (align=JUSTIFY (3)): The implementation of EDGEGUARD AI integrates IoT, Machine Learning, Computer Vision, Digital Twin technology, and Generative AI into a unified predictive maintenance platform for heavy mining trucks. The system is designed to continuously collect equipment data, analyze truck conditions, identify potential failures, and provide intelligent maintenance support. These technologies work together to transform raw operational data into meaningful maintenance insights and support proactive decision-making.
+P290 [Body Text] (align=JUSTIFY (3)): IoT Integration: ESP32-based sensors are used to collect real-time information from the mining truck, including temperature, pressure, vibration, and location. The collected data is transmitted using the MQTT communication protocol, enabling continuous monitoring during operation. This information helps identify abnormal changes in equipment conditions and provides the primary input for predictive maintenance analysis.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P291 [Body Text] (align=JUSTIFY (3)): Data Processing and Preprocessing: The collected sensor data is processed before being provided to the AI models. The preprocessing stage performs data validation, cleaning, transformation, and feature preparation to improve data quality and consistency. Missing values, inconsistent readings, and irrelevant information are handled appropriately. Relevant operational features are extracted to help the Machine Learning models identify patterns associated with normal and abnormal equipment behavior.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P292 [Body Text] (align=JUSTIFY (3)): Backend Development: A FastAPI-based backend is implemented to manage communication between the frontend, database, IoT data, and AI modules. The backend receives sensor information, processes API requests, communicates with predictive models, and returns the generated results to the application. REST APIs provide a structured communication mechanism between the different components. The backend also supports storing prediction records and retrieving equipment information for dashboard visualization.
+     Runs font=set(), size={12.0}, bold=[True, None, True, True, None]
+P293 [Body Text] (align=JUSTIFY (3)): Machine Learning: The predictive maintenance engine uses XGBoost, Isolation Forest, and RUL prediction models to analyze mining truck conditions. XGBoost is used to predict the probability of potential equipment failures, while Isolation Forest identifies unusual operating patterns and anomalies. RUL prediction models estimate the Remaining Useful Life of critical components. The system generates failure probabilities, health scores, and anomaly scores to help maintenance personnel
+     Runs font=set(), size={12.0}, bold=[True, None, True, True, None, None, None]
+P296 [Body Text] (align=JUSTIFY (3)): understand the current condition and possible future risks. These predictions support early fault identification and condition-based maintenance planning.
+P297 [Body Text] (align=JUSTIFY (3)): Computer Vision: The Computer Vision module uses YOLOv8 and OpenCV to analyze inspection images of mining trucks. It is designed to identify visible defects such as oil leakage, tyre wear, structural cracks, and rust. Image processing and object detection techniques help identify damaged areas and provide additional information about component conditions. The detected visual conditions are combined with sensor-based predictions to provide a more comprehensive equipment assessment and support automated visual inspection.
+     Runs font=set(), size={12.0}, bold=[True, None, True, None, None, None]
+P298 [Body Text] (align=JUSTIFY (3)): Decision Engine: The Decision Engine combines outputs from the IoT, Machine Learning, and Computer Vision modules. It evaluates sensor abnormalities, predicted failure probabilities, component health, RUL estimates, and detected visual defects to determine the overall risk level and maintenance priority. Components with serious abnormalities or a higher predicted failure risk can be highlighted for immediate inspection. This approach helps maintenance teams prioritize activities and allocate resources according to equipment condition.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P299 [Body Text] (align=JUSTIFY (3)): Dashboard and Digital Twin: A web-based dashboard provides a centralized interface for monitoring mining trucks. It displays live sensor readings, equipment health, alerts, failure probability, anomaly levels, RUL estimates, and maintenance status. The Digital Twin provides a virtual representation of the truck and its components, helping users understand equipment conditions and identify areas requiring attention. Historical records and prediction results can also support the comparison of equipment health over time.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P300 [Body Text] (align=JUSTIFY (3)): AI Maintenance Copilot: Google Gemini is integrated into the system as an AI-based maintenance assistant. It helps interpret prediction results and provides understandable explanations of detected problems. The Copilot can suggest possible root causes, maintenance guidance, and recommended repair actions based on the available equipment information. It helps maintenance personnel understand technical outputs and identify appropriate follow-up actions. The recommendations are intended to support technicians rather than replace their expertise.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P301 [Body Text] (align=JUSTIFY (3)): Database Management: The database stores truck details, component information, sensor readings, maintenance history, detected defects, and prediction results. This information allows the application to retrieve relevant records for monitoring and analysis. Maintaining historical information also helps maintenance teams identify recurring problems, review previous maintenance activities, and understand changes in equipment performance.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P304 [Body Text] (align=JUSTIFY (3)): Human-in-the-Loop Decision Making: The system follows a human-in-the-loop approach in which AI-generated predictions and recommendations are reviewed by maintenance professionals before final actions are taken. Technicians can consider actual operating conditions, inspection findings, and equipment requirements before approving maintenance activities. This combines AI-based analysis with practical experience to support safer and more reliable decisions.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P305 [Body Text] (align=JUSTIFY (3)): Maintenance Alerts and Prioritization: The system highlights abnormal operating conditions and high-risk components through dashboard alerts. Maintenance teams can use these alerts, health scores, and RUL estimates to schedule inspections, plan component replacement, and avoid unnecessary servicing. Prioritizing maintenance based on predicted risk helps improve the use of maintenance resources and reduce the possibility of unexpected equipment failures.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P306 [Body Text] (align=JUSTIFY (3)): Overall, the implementation of EDGEGUARD AI provides an integrated predictive maintenance workflow that combines real-time IoT data, historical information, Machine Learning predictions, and Computer Vision results. Digital Twin visualization and the AI Maintenance Copilot make the results easier to understand and use. The system supports continuous condition monitoring, early fault detection, failure prediction, RUL estimation, risk assessment, and intelligent maintenance recommendations. By encouraging proactive and condition-based maintenance rather than relying mainly on reactive repairs or fixed schedules, EDGEGUARD AI aims to reduce unexpected breakdowns, minimize downtime and maintenance costs, improve equipment reliability, and increase the operational efficiency of heavy mining trucks.
+     Runs font=set(), size={12.0}, bold=[None, True, None]
+P308 [Heading 3] (align=CENTER (1)): APPENDIX
+     Runs font=set(), size=set(), bold=[None, None, None]
+P309 [Normal] (align=None): CODING OFFLINE.HTML
+     Runs font=set(), size={14.0}, bold=[True, True]
+P310 [Body Text] (align=None): <!doctype html>
+P311 [Body Text] (align=None): <html lang="en">
+P312 [Body Text] (align=None): <head>
+P313 [Body Text] (align=None): <meta charset="utf-8">
+P314 [Body Text] (align=None): <title>EdgeGuard AI — Offline</title>
+P315 [Body Text] (align=None): <meta name="viewport" content="width=device-width, initial-scale=1">
+P316 [Body Text] (align=None): <style> body{margin:0;background:#0a0e1a;color:#e2e8f0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;display:flex;align-items:center;justify-content:center;min-height:100vh;text-align:center;padding:24px}
+P317 [Body Text] (align=None): h1{font-size:28px;letter-spacing:1.2px;background:linear-gradient(90deg,#3b82f6,#22c55e);-webkit-background-
+P318 [Body Text] (align=None): clip:text;background-clip:text;color:transparent;margin:0 0 12px} p{color:#94a3b8;max-width:420px;line-height:1.55} button{margin-top:24px;padding:10px
+P319 [Body Text] (align=None): 20px;background:#3b82f6;color:white;border: none;border-radius:8px;font-weight:600;cursor:pointer}
+P320 [Body Text] (align=None): .badge{display:inline-block;padding:4px	10px;border:1px	solid
+P321 [Body Text] (align=None): #334155;border-radius:999px;font-size:11px;letter-spacing:1.5px;color:#94a3b8;margin-bottom:18px}
+P322 [Body Text] (align=None): </style>
+P323 [Body Text] (align=None): </head>
+P324 [Body Text] (align=None): <body>
+P325 [Body Text] (align=None): <div>
+P326 [Body Text] (align=None): <div class="badge">OFFLINE</div>
+P327 [Body Text] (align=None): <h1>EdgeGuard AI</h1>
+P328 [Body Text] (align=None): <p>You appear to be in a tunnel or the pit lost signal. The dashboard will
+P330 [Body Text] (align=None): auto-reconnect when the network is back. Demo mode can run from cache.</p>
+P331 [Body Text] (align=None): <button onclick="location.href='./index.html'">Try again</button>
+P332 [Body Text] (align=None): </div>
+P333 [Body Text] (align=None): </body>
+P334 [Body Text] (align=None): </html>
+P337 [Heading 3] (align=None): SERVICE WORKER.JS
+     Runs font=set(), size={12.0}, bold=[None, None, None]
+P341 [Body Text] (align=None): // EdgeGuard AI — service worker
+P342 [Body Text] (align=None): // Strategy: cache-first for the app shell, network-first for the backend API.
+P343 [Body Text] (align=None): // Falls back to the offline page if both fail. const CACHE = 'edgeguard-v2';
+P344 [Body Text] (align=None): const SHELL = [ './',
+P345 [Body Text] (align=None): './index.html',
+P346 [Body Text] (align=None): './app.js',
+P347 [Body Text] (align=None): './index.css', './digital_twin.html', './manifest.json',
+P348 [Body Text] (align=None): './vendor-three.module.min.js',
+P349 [Normal] (align=None): ];
+P351 [Body Text] (align=None): self.addEventListener('install', (e) => {
+P352 [Body Text] (align=None): e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+P353 [Normal] (align=None): });
+P355 [Body Text] (align=None): self.addEventListener('activate', (e) => { e.waitUntil(
+P356 [Body Text] (align=None): caches.keys().then((keys) =>
+P358 [Body Text] (align=None): Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k)))
+P359 [Body Text] (align=None): ).then(() => self.clients.claim())
+P360 [Normal] (align=None): );
+P361 [Normal] (align=None): });
+P363 [Body Text] (align=None): self.addEventListener('fetch', (e) => { const url = new URL(e.request.url);
+P364 [Body Text] (align=None): // Always go to network for backend API and WebSocket
+P365 [Body Text] (align=None): if (url.pathname.startsWith('/api/') || url.host !== location.host) { return; // bypass SW
+P366 [Normal] (align=None): }
+P367 [Body Text] (align=None): // Network-first for HTML so updates ship fast
+P368 [Body Text] (align=None): if (e.request.mode === 'navigate' || url.pathname.endsWith('.html')) { e.respondWith(
+P369 [Body Text] (align=None): fetch(e.request).then((r) => { const copy = r.clone();
+P370 [Body Text] (align=None): caches.open(CACHE).then((c) => c.put(e.request, copy)); return r;
+P371 [Body Text] (align=None): }).catch(() => caches.match(e.request).then((r) => r || caches.match('./index.html')))
+P372 [Normal] (align=None): );
+P373 [Body Text] (align=None): return;
+P374 [Normal] (align=None): }
+P375 [Body Text] (align=None): // Cache-first for static assets e.respondWith(
+P376 [Body Text] (align=None): caches.match(e.request).then((cached) => cached || fetch(e.request).then((r) => { const copy = r.clone();
+P377 [Body Text] (align=None): if (r.status === 200) caches.open(CACHE).then((c) => c.put(e.request, copy)); return r;
+P378 [Body Text] (align=None): }).catch(() => cached))
+P379 [Normal] (align=None): );
+P380 [Normal] (align=None): });
+P382 [Heading 3] (align=None): TESTWORKER.PY
+     Runs font=set(), size={12.0}, bold=[None]
+P384 [Normal] (align=None): """
+P385 [Body Text] (align=None): EdgeGuard AI - MQTT Subscriber Test Script
+P387 [Body Text] (align=None): Run this on your laptop BEFORE building the full FastAPI listener, just to confirm the Wokwi simulation is actually publishing real data to the broker.
+P389 [Body Text] (align=None): Usage:
+P390 [Body Text] (align=None): pip install paho-mqtt python test_subscriber.py
+P392 [Body Text] (align=None): It subscribes to every sensor topic under truck1 and prints each message as it arrives. Ctrl+C to stop.
+P393 [Normal] (align=None): """
+P395 [Body Text] (align=None): import json
+P396 [Body Text] (align=None): from datetime import datetime import paho.mqtt.client as mqtt
+P398 [Body Text] (align=None): BROKER = "broker.hivemq.com" PORT = 1883
+P399 [Body Text] (align=None): TOPIC_FILTER = "edgeguard/truck1/#" # all sensors + status for truck1
+P403 [Body Text] (align=None): def on_connect(client, userdata, flags, rc): if rc == 0:
+P404 [Body Text] (align=None): print(f"[connected] {BROKER}:{PORT} subscribing to {TOPIC_FILTER}") client.subscribe(TOPIC_FILTER)
+P405 [Body Text] (align=None): else:
+P406 [Body Text] (align=None): print(f"[error] connection failed, rc={rc}")
+P410 [Body Text] (align=None): def on_message(client, userdata, msg):
+P412 [Body Text] (align=None): ts = datetime.now().strftime("%H:%M:%S") try:
+P413 [Body Text] (align=None): payload = json.loads(msg.payload.decode()) sensor = payload.get("sensor", "?")
+P414 [Body Text] (align=None): value = payload.get("value", "?") unit = payload.get("unit", "")
+P415 [Body Text] (align=None): print(f"[{ts}] {msg.topic:45s} {sensor:22s} {value} {unit}") except json.JSONDecodeError:
+P416 [Body Text] (align=None): print(f"[{ts}] {msg.topic:45s} RAW: {msg.payload.decode()}")
+P420 [Body Text] (align=None): def main():
+P421 [Body Text] (align=None): client = mqtt.Client() client.on_connect = on_connect client.on_message = on_message
+P423 [Body Text] (align=None): print("Connecting...")
+P424 [Body Text] (align=None): client.connect(BROKER, PORT, keepalive=60) client.loop_forever()
+P427 [Body Text] (align=None): if 		name	== "	main	": try:
+P428 [Body Text] (align=None): main()
+P429 [Body Text] (align=None): except KeyboardInterrupt: print("\nStopped.")
+P432 [Normal] (align=None): /*
+P433 [Body Text] (align=None): EdgeGuard AI - Phase 1 IoT Simulation
+P434 [Body Text] (align=None): ESP32 + Wokwi virtual sensors -> MQTT (HiveMQ public broker)
+P436 [Body Text] (align=None): Sensors simulated:
+P438 [List Paragraph] (align=None): Temperature (DS18B20)	-> engine block / coolant
+P439 [List Paragraph] (align=None): Vibration	(MPU6050 accel mag) -> wheel hub / axle bearing
+P440 [List Paragraph] (align=None): Oil Pressure (potentiometer, 0-10 bar)
+P441 [List Paragraph] (align=None): Hydraulic Pressure (potentiometer, 0-600 bar)
+P442 [List Paragraph] (align=None): Suspension Pressure (potentiometer, 0-16 bar)
+P443 [List Paragraph] (align=None): Battery Voltage (potentiometer, 0-25V)
+P445 [Body Text] (align=None): Failure scenario: AUTO-RAMP starting at T+60s. Simulates the documented degradation cascade:
+P446 [Body Text] (align=None): Temperature UP -> Vibration UP -> Oil Pressure DOWN -> failure window
+P448 [Body Text] (align=None): Topic schema (truck_id = "truck1" for hackathon demo): edgeguard/truck1/temperature edgeguard/truck1/vibration edgeguard/truck1/oil_pressure edgeguard/truck1/hydraulic_pressure edgeguard/truck1/suspension_pressure edgeguard/truck1/battery_voltage edgeguard/truck1/status	(heartbeat / online flag)
+P450 [Body Text] (align=None): JSON payload shape (same for every sensor topic):
+P451 [Normal] (align=None): {
+P452 [Body Text] (align=JUSTIFY (3)): "truck_id": "truck1", "sensor": "vibration", "value": 1.23,
+P453 [Body Text] (align=None): "unit": "g",
+P454 [Body Text] (align=None): "ts": 123456	// millis() since boot, swap for real epoch in Phase 2
+P455 [Normal] (align=None): }
+P456 [Normal] (align=None): */
+P458 [Heading 3] (align=None): SKETCH.INO
+     Runs font=set(), size={12.0}, bold=[None]
+P460 [Body Text] (align=None): #include <WiFi.h>
+P462 [Body Text] (align=None): #include <PubSubClient.h> #include <Wire.h>
+P463 [Body Text] (align=None): #include <Adafruit_MPU6050.h> #include <Adafruit_Sensor.h> #include <OneWire.h>
+P464 [Body Text] (align=None): #include <DallasTemperature.h>
+P466 [Body Text] (align=None): // ---------- WiFi (Wokwi simulated network) ----------const char* WIFI_SSID = "Wokwi-GUEST";
+P467 [Body Text] (align=None): const char* WIFI_PASS = "";
+P469 [Body Text] (align=None): // ---------- MQTT (public HiveMQ broker) ----------const char* MQTT_BROKER = "broker.hivemq.com"; const int	MQTT_PORT	= 1883;
+P470 [Body Text] (align=None): const char* TRUCK_ID	= "truck1";
+P471 [Body Text] (align=None): // Make this unique-ish so you don't collide with other teams testing on the
+P472 [Body Text] (align=None): // same public broker during the hackathon.
+P473 [Body Text] (align=None): const char* MQTT_CLIENT_ID = "edgeguard-truck1-sim-01";
+P475 [Body Text] (align=None): WiFiClient espClient; PubSubClient mqtt(espClient);
+P477 [Body Text] (align=None): //	Pins
+P478 [Body Text] (align=None): #define ONE_WIRE_PIN	4
+P483 [Body Text] (align=None): #define ALERT_LED_PIN 2 OneWire oneWire(ONE_WIRE_PIN);
+P484 [Body Text] (align=None): DallasTemperature tempSensor(&oneWire); Adafruit_MPU6050 mpu;
+P486 [Body Text] (align=None): //	Timing
+P487 [Body Text] (align=None): unsigned long bootTime = 0; unsigned long lastPublish = 0;
+P488 [Body Text] (align=None): const unsigned long PUBLISH_INTERVAL_MS = 2000;	// publish every 2s
+P489 [Body Text] (align=None): const unsigned long FAILURE_START_MS	= 60000; // auto-ramp begins at T+60s
+P490 [Body Text] (align=None): const unsigned long FAILURE_RAMP_MS	= 90000; // ramps to full severity over 90s
+P492 [Body Text] (align=None): void connectWiFi() { Serial.print("Connecting to WiFi"); WiFi.begin(WIFI_SSID, WIFI_PASS);
+P493 [Body Text] (align=None): while (WiFi.status() != WL_CONNECTED) { delay(300);
+P494 [Body Text] (align=None): Serial.print(".");
+P495 [Normal] (align=None): }
+P496 [Body Text] (align=None): Serial.println(" connected!"); Serial.println(WiFi.localIP());
+P497 [Normal] (align=None): }
+P499 [Body Text] (align=None): void connectMQTT() { mqtt.setServer(MQTT_BROKER, MQTT_PORT); while (!mqtt.connected()) { Serial.print("Connecting to MQTT broker...");
+P500 [Body Text] (align=None): if (mqtt.connect(MQTT_CLIENT_ID)) { Serial.println(" connected!");
+P501 [Body Text] (align=None): String statusTopic = String("edgeguard/") + TRUCK_ID + "/status"; mqtt.publish(statusTopic.c_str(), "{\"status\":\"online\"}");
+P502 [Body Text] (align=None): } else {
+P503 [Body Text] (align=None): Serial.print(" failed, rc="); Serial.print(mqtt.state()); Serial.println(" retrying in 2s"); delay(2000);
+P505 [Normal] (align=None): }
+P506 [Normal] (align=None): }
+P507 [Normal] (align=None): }
+P509 [Body Text] (align=None): // Publishes one sensor reading as a JSON payload on its own topic.
+P510 [Body Text] (align=None): void publishReading(const char* sensorName, float value, const char* unit) { String topic = String("edgeguard/") + TRUCK_ID + "/" + sensorName;
+P512 [Body Text] (align=None): String payload = "{";
+P513 [Body Text] (align=None): payload += "\"truck_id\":\"" + String(TRUCK_ID) + "\","; payload += "\"sensor\":\"" + String(sensorName) + "\","; payload += "\"value\":" + String(value, 2) + ",";
+P514 [Body Text] (align=None): payload += "\"unit\":\"" + String(unit) + "\","; payload += "\"ts\":" + String(millis()); payload += "}";
+P516 [Body Text] (align=None): mqtt.publish(topic.c_str(), payload.c_str()); Serial.print(topic);
+P517 [Body Text] (align=None): Serial.print(" -> "); Serial.println(payload);
+P518 [Normal] (align=None): }
+P520 [Body Text] (align=None): // Returns 0.0 -> 1.0 representing how far into the failure ramp we are.
+P521 [Body Text] (align=None): // 0 = healthy baseline, 1 = full failure severity reached. float getFailureSeverity() {
+P522 [Body Text] (align=None): unsigned long elapsed = millis() - bootTime;
+P523 [Body Text] (align=None): if (elapsed < FAILURE_START_MS) return 0.0; float into = (float)(elapsed - FAILURE_START_MS); float severity = into / (float)FAILURE_RAMP_MS;
+P524 [Body Text] (align=None): if (severity > 1.0) severity = 1.0; return severity;
+P525 [Normal] (align=None): }
+P527 [Body Text] (align=None): void setup() { Serial.begin(115200);
+P528 [Body Text] (align=None): pinMode(ALERT_LED_PIN, OUTPUT);
+P529 [Body Text] (align=None): digitalWrite(ALERT_LED_PIN, LOW);
+P531 [Body Text] (align=None): connectWiFi(); connectMQTT();
+P532 [Body Text] (align=None): tempSensor.begin(); if (!mpu.begin()) {
+P533 [Body Text] (align=None): Serial.println("MPU6050 not found - check wiring (continuing anyway)");
+P534 [Body Text] (align=None): } else { mpu.setAccelerometerRange(MPU6050_RANGE_8_G);
+P535 [Normal] (align=None): }
+P537 [Body Text] (align=None): bootTime = millis();
+P538 [Body Text] (align=None): Serial.println("EdgeGuard AI simulation started. Auto-ramp failure at T+60s.");
+P539 [Normal] (align=None): }
+P541 [Body Text] (align=None): void loop() {
+P542 [Body Text] (align=None): if (!mqtt.connected()) { connectMQTT();
+P543 [Normal] (align=None): }
+P544 [Body Text] (align=None): mqtt.loop();
+P546 [Body Text] (align=None): unsigned long now = millis();
+P547 [Body Text] (align=None): if (now - lastPublish < PUBLISH_INTERVAL_MS) { return;
+P548 [Normal] (align=None): }
+P549 [Body Text] (align=None): lastPublish = now;
+P551 [Body Text] (align=None): float severity = getFailureSeverity();
+P553 [Body Text] (align=None): // ---- Temperature: baseline ~65C, ramps up to ~110C under failure ----float baseTemp = 65.0;
+P554 [Body Text] (align=None): float temp = baseTemp + (severity * 45.0) + random(-10, 10) / 10.0;
+P556 [Body Text] (align=None): // ---- Vibration: read MPU6050 accel magnitude, add ramp + noise ----float vibBase = 0.3; // g, healthy baseline jitter
+P557 [Body Text] (align=None): float vib = vibBase + (severity * 2.2) + random(-5, 5) / 100.0;
+P558 [Body Text] (align=None): // If MPU is actually present, blend in a touch of real sensor noise if (mpu.getMotionInterruptStatus() || true) {
+P559 [Body Text] (align=None): sensors_event_t a, g, t; mpu.getEvent(&a, &g, &t);
+P560 [Body Text] (align=None): float mag = sqrt(a.acceleration.x * a.acceleration.x + a.acceleration.y * a.acceleration.y + a.acceleration.z * a.acceleration.z) / 9.8;
+P561 [Body Text] (align=None): vib += (mag - 1.0) * 0.05; // small real-sensor influence, kept subtle
+P562 [Normal] (align=None): }
+P564 [Body Text] (align=None): // ---- Oil pressure: baseline ~70 (of 0-10 bar scale *10), DROPS under failure ----int oilRaw = analogRead(OIL_PIN); // 0-4095
+P565 [Body Text] (align=None): float oilBase = map(oilRaw, 0, 4095, 30, 70) / 10.0; // 3.0 - 7.0 bar baseline float oilPressure = oilBase - (severity * 2.5) + random(-3, 3) / 100.0;
+P566 [Body Text] (align=None): if (oilPressure < 0.5) oilPressure = 0.5;
+P568 [Body Text] (align=None): // ---- Hydraulic pressure: baseline mid-range, dips/spikes under failure ----int hydRaw = analogRead(HYD_PIN);
+P569 [Body Text] (align=None): float hydBase = map(hydRaw, 0, 4095, 200, 400); // 200-400 bar baseline float hydPressure = hydBase - (severity * 90.0) + random(-5, 5);
+P571 [Body Text] (align=None): // ---- Suspension pressure: baseline steady, DROPS under failure (stress/wear) ----int suspRaw = analogRead(SUSP_PIN);
+P572 [Body Text] (align=None): float suspBase = map(suspRaw, 0, 4095, 60, 100) / 10.0; // 6.0-10.0 bar float suspPressure = suspBase - (severity * 3.0) + random(-2, 2) / 100.0;
+P574 [Body Text] (align=None): if (suspPressure < 1.0) suspPressure = 1.0;
+P576 [Body Text] (align=None): // ---- Battery voltage: mostly stable, slight dip under stress ----int battRaw = analogRead(BATT_PIN);
+P577 [Body Text] (align=None): float battVoltage = map(battRaw, 0, 4095, 220, 250) / 10.0; // 22.0-25.0V battVoltage -= (severity * 1.0);
+P579 [Body Text] (align=None): // ---- Publish all six readings ----publishReading("temperature", temp, "C"); publishReading("vibration", vib, "g"); publishReading("oil_pressure", oilPressure, "bar"); publishReading("hydraulic_pressure", hydPressure, "bar"); publishReading("suspension_pressure", suspPressure, "bar"); publishReading("battery_voltage", battVoltage, "V");
+P581 [Body Text] (align=None): // ---- Local alert LED, mirrors what the dashboard should flag ----if (severity > 0.5) {
+P582 [Body Text] (align=None): digitalWrite(ALERT_LED_PIN, HIGH);
+P583 [Body Text] (align=None): } else {
+P584 [Body Text] (align=None): digitalWrite(ALERT_LED_PIN, LOW);
+P585 [Normal] (align=None): }
+P587 [Body Text] (align=None): Serial.print("Failure severity: "); Serial.println(severity); Serial.println("---");
+P588 [Normal] (align=None): }
+P590 [Heading 3] (align=None): 5.RESULTS AND INFERENCES
+     Runs font=set(), size=set(), bold=[None, None, None, None, None, None, None, None]
+P594 [Normal] (align=None): Fig 4.1 Predictive Fleet Operations Board
+     Runs font=set(), size={10.0}, bold=[True, True, True, True, True, True, True, True, True, True, True]
+P596 [Body Text] (align=None): The EdgeGuard AI dashboard provides real-time truck health, failure risk, alerts, sensor data, and maintenance information.
+     Runs font=set(), size={12.0}, bold=[None, None, True, True, True, True, True, True, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+P598 [Normal] (align=CENTER (1)): Fig 4.2 𝕯𝖎𝗀𝗂𝗍𝖆𝗅 𝖳𝗐𝗂𝗇 • 𝖳𝖱𝖴𝖢𝖪1
+     Runs font={'Cambria Math'}, size={10.0}, bold=[True, True, True, True, None, None, None, None, True, True, None, True]
+P599 [Normal] (align=None): 𝖳𝗁𝗂𝗌 𝗂𝗇𝗍𝖾𝗋𝖿𝖺𝖼𝖾 𝗆𝖺𝗉𝗌 𝗅𝗂𝗿𝗎𝗂𝖽 𝖺𝗇𝖽 𝗆𝖾𝖈𝗁𝖺𝗇𝗂𝖼𝖺𝗅 𝗌𝖾𝗇𝗌𝗈𝗋 𝖽𝖺𝗍𝖺 𝖽𝗂𝗋𝖾𝖼𝗍𝗅𝗒 𝗈𝗇𝗍𝗈 𝗍𝗁𝖾 𝗏𝖾𝗁𝗂𝖼𝗅𝖾'𝗌
+P600 [Normal] (align=None): 𝖌𝖾𝗈𝗆𝖾𝗍𝗋𝗒. 𝖨𝗍 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝘀 𝗮𝗻 𝗶𝗺𝗺𝗲𝗿𝘀𝗶𝘃𝗲 𝗱𝗶𝗮𝗴𝗻𝗼𝘀𝘁𝗶𝗰 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 𝘁𝗼 𝘁𝗿𝗮𝗰𝗸 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁
+P601 [Normal] (align=None): 𝘀𝘁𝗿𝗲𝘀𝘀, 𝐟𝐚𝐢𝐥𝐮𝐫𝐞 𝐩𝐫𝐨𝐛𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬, 𝗮𝗻𝗱 𝐥𝐢𝐯𝐞 𝐭𝐞𝐥𝐞𝐦𝐞𝐭𝐫𝐲 𝐢𝐧 𝐨𝐧𝐞 𝐮𝐧𝐢𝐟𝐢𝐞𝐝 𝐯𝐢𝐞𝐰.
+P604 [Normal] (align=CENTER (1)): Fig 4.3 𝕸𝖆𝖎𝖓𝖙𝖊𝖓𝖆𝖓𝖈𝖊 & 𝕾𝕺𝕻 𝕽𝖊𝖋𝖊𝖗𝖊𝖓𝖈𝖊
+     Runs font={'Cambria Math'}, size={10.0}, bold=[True, True, True, True, None, None, None, None, None, None, None]
+P606 [Normal] (align=None): 𝖳𝗁𝗂𝗌 𝗉𝖺𝗇𝖾𝗅 𝗆𝖺𝗍𝖼𝗁𝖾𝗌 𝗅𝗂𝗏𝖾 𝗏𝖾𝗁𝗂𝖼𝗅𝖾 𝐟𝐚𝐢𝐥𝐮𝐫𝐞 𝐜𝐨𝐝𝐞𝐬 𝐝𝐢𝐫𝐞𝐜𝐭𝐥𝐲 𝐰𝐢𝐭𝐡 𝐢𝐧𝐬𝐭𝐚𝐧𝐭 𝐫𝐞𝐩𝐚𝐢𝐫 𝐠𝐮𝐢𝐝𝐞𝐥𝐢𝐧𝐞𝐬 𝖺𝗇𝖽
+P607 [Normal] (align=None): 𝖺𝗎𝖽𝗂𝗍 𝐭𝐢𝐦𝐞𝐥𝐢𝐧𝐞𝐬. 𝖨𝗍 𝗌𝖾𝗋𝗏𝖾𝗌 𝖺𝗌 𝖺 𝐜𝐞𝐧𝐭𝐫𝐚𝐥 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐛𝐚𝐬𝐞 𝗍𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝗿𝗲𝘀𝗼𝗹𝘃𝗲 𝗐𝖺𝗋𝗇𝗂𝗇𝗀𝗌 𝖺𝗇𝖽
+P608 [Normal] (align=None): 𝗺𝗶𝗻𝗶𝗺𝗶𝘇𝗲 𝖽𝗈𝗐𝗇𝗍𝗂𝗆𝖾 𝗈𝗇 𝗍𝗁𝖾 𝗿𝗼𝗮𝗱.
+P610 [Normal] (align=None): Fig 4.4 𝕻𝖎𝖙 𝕸𝖆𝗉 • 𝕃𝕚𝕧𝕖 𝔽𝕝𝕖𝕖𝕥
+     Runs font={'Cambria Math'}, size={10.0}, bold=[True, True, True, True, None, None, None, None, None, None, None, None, None]
+P611 [Normal] (align=None): 𝖳𝗁𝗂𝗌 𝗆𝖺𝗉 𝐯𝐢𝐞𝐰 𝐭𝐫𝐚𝐜𝐤𝐬 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐦𝐢𝐧𝐢𝐧𝐠 𝐩𝐢𝐭 𝐠𝐞𝐨𝐟𝐞𝐧𝐜𝐞𝐬 𝐰𝐢𝐭𝒽 𝐜𝐨𝐥𝐨𝐫-𝐜𝐨𝐝𝐞𝐝 𝐭𝐫𝐮𝐜𝐤
+P612 [Normal] (align=None): 𝐡𝐞𝐚𝐥𝐭𝗁 𝐬𝐭𝐚𝐭𝐮𝐬𝐞𝐬. 𝖨𝗍 𝐚𝐥𝐥𝐨𝐰𝐬 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 𝐭𝐨 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐟𝐥𝐞𝐞𝐭 𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐫𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐚𝐧𝐝
+P613 [Normal] (align=None): 𝐪𝐮𝐢𝐜𝐤𝐥𝐲 𝐬𝐰𝐢𝐭𝐜𝐡 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐚𝐜𝐭𝐢𝐯𝐞 𝐳𝐨𝐧𝐞𝐬.
+P617 [Normal] (align=None): Fig 4.5 𝕾𝖊𝖙𝖙𝖎𝖓𝖌𝖘 • 𝕾𝗒𝗌𝐭𝐞𝐦 𝕮𝖔𝗻𝖿𝗂𝕘𝖚𝖗𝖆𝖙𝖎𝖔𝖓
+     Runs font={'Cambria Math'}, size={10.0}, bold=[True, True, True, True, None, None, None, None, None, None, None]
+P620 [Normal] (align=None): 𝖳𝗁𝗂𝗌 𝖼𝗈𝗇𝗍𝗋𝗈𝗅 𝗉𝖺𝗇𝖾𝗅 𝗆𝖺𝗇𝖺𝗀𝖾𝗌 𝖻𝖺𝖼𝗄𝖾𝗇𝖽 𝖼𝗈𝗇𝗇𝖾𝖼𝗍𝗂𝗏𝗂𝗍𝗒, 𝗅𝗂𝗏𝖾 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝖾 𝐭𝐨𝐠𝐠𝐥𝐞𝐬, 𝐚𝐥𝐞𝐫𝐭
+P621 [Normal] (align=None): 𝐭𝐡𝐫𝐞𝐬𝐡𝐨𝐥𝐝𝐬, 𝐚𝐧𝐝 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐚𝐬𝐬𝐮𝐦𝐩𝐭𝐢𝐨𝐧𝐬 𝐩𝐞𝐫𝐬𝐢𝐬𝐭𝐞𝐝 𝐭𝐨 𝐥𝐨𝐜𝐚𝐥𝖲𝗍𝗈𝗋𝖺𝗀𝖾. 𝖨𝗍 𝐚𝐥𝐥𝐨𝐰𝐬
+P622 [Body Text] (align=None): 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 𝐭𝐨 𝐜𝐨𝗻𝐟𝐢𝗀𝖚𝖗𝖊 𝐀𝐏𝐈 𝐞𝐧𝐝𝐩𝐨𝐢𝐧𝐭𝐬, 𝐩𝐨𝐥𝐥 𝐢𝐧𝐭𝐞rvals, 𝐚𝐧𝐝 𝐟𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐦𝐞𝐭𝐫𝐢𝐜𝐬 𝐟𝐨𝐫
+P623 [Body Text] (align=None): 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐯𝐞 𝐦𝐚𝐢𝐧𝐭𝐞n𝗮𝐧𝗰𝐞 𝐬𝐢𝐦𝖚𝐥𝐚𝐭𝐢𝖔𝐧𝗌.
+P626 [Normal] (align=None): Fig 4.6 𝕾𝗒𝗌𝖙𝖊𝗆 𝕾𝖎𝖒𝖚𝖑𝖆𝖙𝖎𝖔𝖓 • 𝕬𝖗𝖉𝖚𝖎𝖓𝖔 𝕮++ & 𝕰𝕾𝕻32
+     Runs font={'Cambria Math'}, size={10.0}, bold=[True, True, True, True, None, None, None, None, None, None, None, None, None, None, None, None, None]
+P628 [Body Text] (align=None): 𝖳𝗁𝗂𝗌 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 𝖾𝗇𝗏𝗂𝗋𝗈𝗇𝗆𝖾𝗇𝗍 𝗌𝗁𝗈𝗐𝗌 𝖤𝖲𝖯32 𝖿𝗂𝗋𝗆𝗐𝖺𝗋𝖾 𝐜𝐨𝐝𝐞 𝐚𝐧𝐝 𝐜𝐢𝐫𝐜𝐮𝐢𝐭 𝐬𝐢𝐦𝖚𝖑𝖆𝖳𝖎𝖔𝖓
+P629 [Normal] (align=None): 𝐟𝐨𝐫 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐥𝐢𝐯𝐞 𝐬𝐞𝐧𝐬𝐨𝐫 𝐭𝐞𝐥𝐞𝐦𝐞𝐭𝐫𝐲 𝐬𝐭𝐫𝐞𝐚𝐦𝐬. 𝖨𝗍 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀 𝐚𝐧𝐚𝐥𝐨𝐠 𝐢𝐧𝐩𝐮𝐭𝐬 𝐟𝐨𝐫
+P630 [Normal] (align=None): 𝐭𝐞𝐦𝐩𝐞𝐫𝐚𝐭𝖚𝗿𝖊, 𝐯𝐢𝐛𝐫𝐚𝐭𝐢𝐨𝐧, 𝐨𝐢𝐥 𝐩𝐫𝐞𝐬𝐬𝖚𝖗𝖊, 𝐚𝐧𝐝 𝐡𝐲𝐝𝐫𝐚𝐮𝐥𝐢𝐜 𝐬𝐲𝐬𝐭𝐞𝗺𝐬 𝐭𝐨 𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐭 𝐫𝐞𝐚𝐥-
+P631 [Normal] (align=None): 𝐭𝐢𝐦𝐞 𝖬𝖰𝖳𝖳 𝗉𝖺𝗒𝗅𝗈𝖺𝖽𝗌.
+P633 [Heading 3] (align=None): 6.CONCLUSION & FUTURE SCOPE
+     Runs font=set(), size=set(), bold=[None, None, None, None, None, None, None, None, None]
+P637 [Body Text] (align=JUSTIFY (3)): The EDGEGUARD AI represents a robust, full-stack solution for intelligent predictive maintenance and heavy mining truck monitoring. By integrating IoT sensor data, Machine Learning, Computer Vision, Digital Twin technology, and Generative AI, the application analyzes comprehensive truck information, including sensor parameters, equipment conditions, historical maintenance data, and visual defects, to provide equipment health assessments and failure predictions. This enables the early identification of potential failures and maintenance requirements that may be difficult to detect through traditional inspection methods.
+     Runs font=set(), size={12.0}, bold=[True, None]
+P638 [Body Text] (align=JUSTIFY (3)): A FastAPI backend efficiently manages data flow, processing truck information through the AI models and delivering predictions and visualizations to a modern web frontend. The system provides key features such as truck health monitoring, failure prediction, anomaly detection, Remaining Useful Life (RUL) estimation, defect detection, maintenance prioritization, and AI-generated recommendations. The Digital Twin and web dashboard provide an interactive environment for maintenance teams to monitor equipment conditions, identify high-risk components, and make informed maintenance decisions.
+     Runs font=set(), size={12.0}, bold=[None, True, True, None]
+P639 [Body Text] (align=JUSTIFY (3)): The integration of Machine Learning and Computer Vision provides a more comprehensive assessment of equipment health by combining sensor-based predictions with visual defect detection. The AI Maintenance Copilot further helps maintenance personnel understand prediction results, identify possible causes of abnormalities, and review recommended maintenance actions. The human-in-the-loop approach ensures that maintenance professionals can validate AI-generated insights before implementing corrective measures.
+P641 [Heading 3] (align=None): REFERENCES
+     Runs font=set(), size=set(), bold=[None, None, None, None]
+P645 [Normal] (align=JUSTIFY (3)): [1]. Chen, T., & Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+P646 [Normal] (align=JUSTIFY (3)): [2]. Pedregosa, F., Varoquaux, G., Gramfort, A., et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825–2830.
+P647 [Normal] (align=None): [3]. Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools. [4]. Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). You Only Look Once: Unified, Real-Time Object Detection. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+P648 [Normal] (align=None): [5].PostgreSQL	Global	Development	Group.	PostgreSQL	Documentation.
+P649 [Normal] (align=None): [6]. Supabase. Supabase Documentation. Supabase. [7]. OASIS. MQTT Version 5.0. OASIS Standard.
+P650 [Normal] (align=None): [8]. Espressif Systems. ESP32 Series Datasheet and Documentation. Espressif Systems.
+P651 [Normal] (align=None): [9]. Google. Gemini API Documentation. Google AI for Developers. [10]. FastAPI. FastAPI Documentation. FastAPI.
+P652 [Normal] (align=JUSTIFY (3)): [11]. McKinney, W. (2010). Data Structures for Statistical Computing in Python.
+P653 [Body Text] (align=JUSTIFY (3)): Proceedings of the 9th Python in Science Conference.
+P654 [Normal] (align=JUSTIFY (3)): [12]. Pedregosa, F., et al. (2011). Machine Learning in Python: Scikit-learn. Journal of Machine Learning Research.
+P655 [Normal] (align=JUSTIFY (3)): [13]. Breunig, M. M., Kriegel, H. P., Ng, R. T., & Sander, J. (2000). LOF: Identifying Density-Based Local Outliers. Proceedings of the 2000 ACM SIGMOD International Conference on Management of Data.
+P656 [Body Text] (align=JUSTIFY (3)): [14]. Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
